@@ -1,9 +1,9 @@
-SensorPanel Collection of CornFlakes for AIDA64 Extreme
+SensorPanel Collection for AIDA64 Extreme
 ***
 
 SensorPanel from CornFlakes:
 
-<img src="https://github.com/botflakes/AidaSensorPanels/blob/master/preview/preview_cornflakes.png">
+<img src="https://github.com/botflakes/AidaSensorPanels/blob/master/preview/preview_projektRyzing.png">
 
 ***
   
