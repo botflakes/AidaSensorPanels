@@ -5,7 +5,7 @@ SensorPanel Collection for AIDA64 Extreme
 
 # Project Ryzing:
 
-<img src="https://github.com/botflakes/AidaSensorPanels/blob/master/preview/preview_projectRyzing.png">
+<img src="https://github.com/botflakes/AidaSensorPanels/blob/master/previews/preview_projectRyzing.png">
 
 ***
   
